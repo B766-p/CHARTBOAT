@@ -86,6 +86,6 @@ function getBotResponse(input)
    } else if (input == "hostel is there") {
       return "Yes we provide separate hostel for boys and girls";
    } else {
-      return "Try asking something else! or for more info you can conct to the 7008645200";
+      return "Try asking something else! or for more info you can contact to the 7008645200";
   }
 }
